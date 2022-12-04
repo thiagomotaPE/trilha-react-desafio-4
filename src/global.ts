@@ -14,8 +14,4 @@ export default createGlobalStyle`
         padding: 0;
         background-color: #81259D;
     }
-
-    input, button, textarea, h1, h2, h3, h4, h5, h6 {
-        font-family: 'Nunito', sans-serif;
-    }
 `
